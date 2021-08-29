@@ -125,18 +125,23 @@ h2{
   }
 }
 #cta{
+  text-align: center;
   font-family: "Montserrat-Black";
   background-color: #ff4c68;
-  padding: 7% 0 3%;
+  padding: 5% 100px 2%;
   color: white;
 }
 #cta h3{
   font-size: 2.5rem;
 }
+#cta .download-button{
+  margin:3% 3% 3% 3%;
+}
 
 #footer{
-  padding: 7% 0 0;
+  padding: 3% 0 0;
   background-color: white;
+  text-align: center;
 }
 #footer i{
   padding: 2%  1.5%;
